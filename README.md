@@ -1,6 +1,10 @@
 # Ruse
 
 
+
+[![Build Status][travis-image]][travis-url]<space><space>
+
+
 ![Alt text](https://irisar.com/Ruse/Ruse180.png)
 
 
@@ -9,7 +13,6 @@ Mobile camera-based application that attempts to alter photos to preserve their 
 
 
 
-[![Build Status][travis-image]][travis-url]
 
 
 
