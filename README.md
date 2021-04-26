@@ -1,7 +1,9 @@
+# Ruse
+
 
 ![Alt text](https://irisar.com/Ruse/Ruse180.png)
 
-# Ruse
+
 Mobile camera-based application that attempts to alter photos to preserve their utility to humans while making them unusable for facial recognition systems.
 
 
