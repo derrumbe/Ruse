@@ -34,6 +34,10 @@ This is done through a variety of methods based on previous research. Due to the
 
 Instructions on usage and a full video to come with first release.
 
+The Jupyter notebook illustrates the "arbitrary fast style" technique that is possible on mobile: 
+![image](https://user-images.githubusercontent.com/12752489/116135863-3f777d00-a697-11eb-8265-3e4f1dba64dd.png)
+
+
 ## Development setup
 
 Requirements: Xcode 12 
