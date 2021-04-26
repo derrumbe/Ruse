@@ -30,7 +30,7 @@ Mobile camera-based application that attempts to alter photos to preserve their 
 
 App is developed as a camera-based app, allowing for the modification of faces on new camera capture or current photos on camera roll with the goal of keeping them useful for social media and human consumption while making it difficult for facial recognition systems to utilize them accurately and effectively.
 
-This is done through a m
+This is done through a variety of methods based on previous research. Due to the limits of mobile and TensorFlow Lite, learning on the device itself is not possible—so some of the more advanced techniques are not yet possible (but research and development may yield future results.)
 
 Instructions on usage and a full video to come with first release.
 
