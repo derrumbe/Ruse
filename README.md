@@ -2,7 +2,10 @@
 
 
 
-[![Build Status][travis-image]][travis-url]<space><space>
+![image](https://user-images.githubusercontent.com/12752489/116280198-0fd77c00-a74e-11eb-8093-642d38c6220a.png)
+![image](https://img.shields.io/badge/platform-ios-blue)
+![image](https://img.shields.io/badge/platform-android-blue)
+
 
 
 ![Alt text](https://irisar.com/Ruse/Ruse180.png)
