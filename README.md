@@ -39,8 +39,9 @@ The Jupyter notebook illustrates the "arbitrary fast style" technique that is po
 
 A variety of methods are used to conceal the faces from commerical recognition systems (e.g. arbitrary file transfer, perlin noise introduction). Before saving to the camera roll or being used for online purposes, an onboard facility checks to see if faces can be detected.
 
-![image](https://user-images.githubusercontent.com/12752489/116176660-217e3c80-a6d8-11eb-8244-3d3998e3c56f.png)
-(images are of the pre-release version, showing one particular method adversarial approach)
+![image](https://user-images.githubusercontent.com/12752489/116176943-98b3d080-a6d8-11eb-954a-b3006ac940ef.png)
+
+The effect of these adversarial approaches may then be checked wihtout needing to have network access.
 
 (Future versions plan on including a similar onboard estimation of how a sample recognition system fairs against the modified image (classification as opposed to merely detection.)
 
