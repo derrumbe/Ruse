@@ -43,7 +43,7 @@ A variety of methods are used to conceal the faces from commerical recognition s
 
 The effect of these adversarial approaches may then be checked wihtout needing to have network access.
 
-(Future versions plan on including a similar onboard estimation of how a sample recognition system fairs against the modified image (classification as opposed to merely detection.)
+(Future versions plan on including a similar onboard estimation of how a sample recognition system fairs against the modified image (classification as opposed to merely detection.))
 
 
 ## Development setup
