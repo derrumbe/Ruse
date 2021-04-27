@@ -69,7 +69,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/derrumbe/Ruse](https://github.com/derrumbe/Ruse)
 
-
+ 
 
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://travis-ci.com/derrumbe/Ruse.svg?branch=master
