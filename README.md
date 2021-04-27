@@ -54,7 +54,7 @@ Pods installed as part of the process below: TensorFlow Lite (Swift nightly buil
 
 - Download ios and model (tflite models) directory
 - run "pod install" in the downloaded directory
-- Open Ruse.xcworspace
+- Open Ruse.xcworkspace
 
 
 Installation to device is left as an excercise for the reader.
