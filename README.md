@@ -34,12 +34,12 @@ This is done through a variety of methods based on previous research. Due to the
 
 Instructions on usage and a full video to come with first release.
 
-The Jupyter notebook illustrates the "arbitrary fast style" technique that is possible on mobile: 
+The Jupyter notebook illustrates the "arbitrary fast style" adversarial technique that is possible on mobile: 
 ![image](https://user-images.githubusercontent.com/12752489/116135863-3f777d00-a697-11eb-8265-3e4f1dba64dd.png)
 
 A variety of methods are used to conceal the faces from commerical recognition systems (e.g. arbitrary file transfer, perlin noise introduction). Before saving to the camera roll or being used for online purposes, an onboard facility checks to see if faces can be detected.
 
-![image](https://user-images.githubusercontent.com/12752489/116176943-98b3d080-a6d8-11eb-954a-b3006ac940ef.png)
+<img src="https://user-images.githubusercontent.com/12752489/116176943-98b3d080-a6d8-11eb-954a-b3006ac940ef.png" width=250/>
 
 The effect of these adversarial approaches may then be checked wihtout needing to have network access.
 
