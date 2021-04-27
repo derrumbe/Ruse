@@ -37,6 +37,13 @@ Instructions on usage and a full video to come with first release.
 The Jupyter notebook illustrates the "arbitrary fast style" technique that is possible on mobile: 
 ![image](https://user-images.githubusercontent.com/12752489/116135863-3f777d00-a697-11eb-8265-3e4f1dba64dd.png)
 
+A variety of methods are used to conceal the faces from commerical recognition systems (e.g. arbitrary file transfer, perlin noise introduction). Before saving to the camera roll or being used for online purposes, an onboard facility checks to see if faces can be detected.
+
+![image](https://user-images.githubusercontent.com/12752489/116176660-217e3c80-a6d8-11eb-8244-3d3998e3c56f.png)
+(images are of the pre-release version)
+
+(Future versions plan on including a similar onboard estimation of how a sample recognition system fairs against the modified image (classification as opposed to merely detection.)
+
 
 ## Development setup
 
