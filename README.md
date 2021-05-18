@@ -40,6 +40,8 @@ Instructions on usage and a full video to come with first release.
 The Jupyter notebook illustrates the "arbitrary fast style" adversarial technique that is possible on mobile: 
 ![image](https://user-images.githubusercontent.com/12752489/116135863-3f777d00-a697-11eb-8265-3e4f1dba64dd.png)
 
+In the long term, this technique will be applied selectively (likey to segments of the photographs), along with perlin/simplex noise generated on a per image basis, a la https://github.com/kieranbrowne/camera-adversaria.
+
 A variety of methods are used to conceal the faces from commerical recognition systems (e.g. arbitrary file transfer, perlin noise introduction). Before saving to the camera roll or being used for online purposes, an onboard facility checks to see if faces can be detected.
 
 <img src="https://user-images.githubusercontent.com/12752489/116176943-98b3d080-a6d8-11eb-954a-b3006ac940ef.png" width=250/>
