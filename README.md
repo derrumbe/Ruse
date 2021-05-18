@@ -68,6 +68,12 @@ Installation to device is left as an excercise for the reader.
 * 0.0.1
     * Work in progress
 
+## Furture work
+ * web assembly offloading
+ * adjustment (independently) of simplex noise and style transfer
+ * onboard checking of facial classification
+ (dependent on advancement of tensorflow lite, etc)
+
 ## Meta 
 
 
