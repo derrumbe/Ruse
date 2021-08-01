@@ -75,6 +75,7 @@ Installation to device is left as an excercise for the reader.
  * adjustment (independently) of simplex noise and style transfer
  * onboard checking of facial classification
  (dependent on advancement of tensorflow lite, etc)
+ * Redesign of app from PoC to actual, you know, usability
 
 ## Meta 
 
