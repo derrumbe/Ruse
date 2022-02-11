@@ -65,6 +65,8 @@ Pods installed as part of the process below: TensorFlow Lite (Swift nightly buil
 Installation to device is left as an excercise for the reader.
 
 ## Release History
+* 0.2 (in Progress):
+   * Redesign of interface to make it more consumer friendly
 * 0.1 
    * Android code checking in (finally)
 * 0.0.1
