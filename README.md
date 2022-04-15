@@ -67,6 +67,7 @@ Installation to device is left as an excercise for the reader.
 ## Release History
 * 0.2 (in Progress):
    * Redesign of interface to make it more consumer friendly
+   * Addition of a new research technique (in process)
 * 0.1 
    * Android code checking in (finally)
 * 0.0.1
