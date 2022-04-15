@@ -53,7 +53,7 @@ The effect of these adversarial approaches may then be checked wihtout needing t
 
 ## Development setup
 
-Requirements: Xcode 12 
+Requirements: Xcode >12 
 
 Pods installed as part of the process below: TensorFlow Lite (Swift nightly build) // GoogleMLKit // GPUImage3
 
