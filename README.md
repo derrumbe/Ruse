@@ -68,6 +68,7 @@ Installation to device is left as an excercise for the reader.
 * 0.2 (in Progress):
    * Redesign of interface to make it more consumer friendly
    * Addition of a new research technique (in process)
+   * Thanks to all the beta testers for your feeback!
 * 0.1 
    * Android code checking in (finally)
 * 0.0.1
