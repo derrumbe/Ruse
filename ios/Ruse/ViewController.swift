@@ -558,6 +558,9 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
        clearResults()
     }
     
+  
+  // TK: Classification function to check for actual matching of base photo against target set
+  // Basic training should be done on the device itself (but it's still too limited to be refined to real usability.)
     
   // MARK: - Private
 
