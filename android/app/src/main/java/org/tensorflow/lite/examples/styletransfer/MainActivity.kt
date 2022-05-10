@@ -312,6 +312,7 @@ class MainActivity :
 
   // this transformation is necessary to show the top square of the image as the model
   // will work on this part only, making the preview and the result show the same base
+  // NB: need to extend this model a bit to incorporate higher-res images
   class CropTop : BitmapTransformation() {
     override fun transform(
       pool: BitmapPool,
