@@ -35,6 +35,21 @@ class MLExecutionViewModel : ViewModel() {
   private val viewModelJob = Job()
   private val viewModelScope = CoroutineScope(viewModelJob)
 
+/*  
+  Older version of onApplyStyle; static , fixed paths and a few other older approaches
+fun onApplyStyle(
+    context: Context,
+    contentFileStaticPath: String,
+    styleFileStaticPath: String,
+    styleTransferModelExecutor: StyleTransferModelExecutor,
+    inferenceThread: ExecutorCoroutineDispatcher
+  ) {
+    viewModelScope.launch(inferenceThread) {
+      val result = styleTransferStaticModelExecutor.execute(contentFilePath, styleFilePath, context)
+      _styledBitmap.postValue(result)
+    }
+  }*/
+  
   fun onApplyStyle(
     context: Context,
     contentFilePath: String,
@@ -46,5 +61,5 @@ class MLExecutionViewModel : ViewModel() {
       val result = styleTransferModelExecutor.execute(contentFilePath, styleFilePath, context)
       _styledBitmap.postValue(result)
     }
-  }
+  }  
 }
