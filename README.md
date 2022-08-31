@@ -64,6 +64,8 @@ Pods installed as part of the process below: TensorFlow Lite (Swift nightly buil
 
 Installation to device is left as an excercise for the reader.
 
+Future Note: On-device learning is now possible with TFLite. This still may not be practical as the iterations might take too long to be useful for normal users.
+
 ## Release History
 * 0.2 (in Progress):
    * Redesign of interface to make it more consumer friendly
