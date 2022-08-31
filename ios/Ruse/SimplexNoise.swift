@@ -77,7 +77,7 @@ class SimplexNoise {
         return x < Double(xi) ? xi - 1 : xi
     }
     
-  /*  func generatedNoise(chunk: CGPoint, octaves: Int, roughness: Double, scale: Double) -> [[Double]] {
+   func generatedNoise(chunk: CGPoint, octaves: Int, roughness: Double, scale: Double) -> [[Double]] {
         let width = Int(MapConstants.chunkSize.width)
         let height = Int(MapConstants.chunkSize.height)
         
@@ -107,7 +107,7 @@ class SimplexNoise {
         }
     
         return noise
-    }*/
+    }
     
     func noise2d(x: Double, y: Double) -> Double {
         var n0, n1, n2: Double // noise from the three corners
