@@ -69,7 +69,8 @@ Future Note: On-device learning is now possible with TFLite. This still may not 
 ## Release History
 * 0.2 (in Progress):
    * Redesign of interface to make it more consumer friendly
-   * Addition of a new research technique (in process)
+   * Addition of a new research technique (in process) - OPOM, one person / one mask
+    * onboard training to create a class-wise mask
    * Thanks to all the beta testers for your feeback!
 * 0.1 
    * Android code checking in (finally)
